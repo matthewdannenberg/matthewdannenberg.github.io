@@ -55,7 +55,7 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
 
   # Github Pages addition:
-  #gem "github-pages"
+  gem "github-pages"
 
   # Non-Github Pages plugins:
   gem "jekyll-last-modified-at"
